@@ -4,5 +4,5 @@ markdown: kramdown
 paginate: 5
 repo: portland
 maptime:
-  chapter: Maptime Portland
+  chapter: MaptimePDX
   twitter: MaptimePDX
