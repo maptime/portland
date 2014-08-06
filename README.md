@@ -26,6 +26,8 @@ There are two kinds of content in Starter: post and event. You author these type
 #### Event
 Events are for actual planned meetups with RSVP information. Note that the filename of the post should match the date of the meetup date.
 
+LOL MAPS LOL
+
 ##### Fronmatter options
 
 | Name | Required | Value | Description |
