@@ -15,3 +15,5 @@ rsvp: http://calagator.org/events/1250467355
 - Portland, OR 97209
 
 Look for the sign on the door with a number for entry. Food & non-alcoholic beverages are welcome. We'll head over to Tilt next door for beers and wrap-up right after.
+
+No RSVP required but see the [Calagator link](http://calagator.org/events/1250467355) for more info.
