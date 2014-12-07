@@ -4,6 +4,13 @@ title: MaptimePDX Feedback Survey Results
 author: Matt Sayler
 ---
 
+## tl:dr
+
+We ran a feedback survey in November to get a better idea of where we should MaptimePDX in 2015. 
+
+According to that survey, people would like to learn about git/github, web map api's (such as Leaflet), programming basics (i.e. python), and web basics (html, css, etc). 
+
+People are fans of tutorials and show & tells more than hack-times. 
 
 
 ## Survey Results
@@ -14,7 +21,7 @@ Total Responses: 10
 
 Responses: 9/10
 
-![]()
+![](/Learn.png)
 
 #### Respondent Comments
 
@@ -27,7 +34,7 @@ Responses: 9/10
 
 Responses: 10/10
 
-![]()
+![](/MoreOf.png)
 
 #### Respondent Comments
 
@@ -43,7 +50,7 @@ Responses: 10/10
 
 Responses: 10/10
 
-![]()
+![](/ContactCommunity.png)
 
 #### Respondent Comments
 
@@ -58,7 +65,7 @@ Responses: 10/10
 
 Responses: 10/10
 
-![]()
+![](/ContactOrganizers.png)
 
 #### Our Thoughts
 
@@ -94,7 +101,4 @@ Responses: 10/10
  - Appreciate your guys' energy and persistence. Optimally you want to get to where the group has a life of its own. Monthly meetups become a focal point and not the only thing. More collaboration with the PDX OSGEO group. There's some overlap in the group and continuing to be inclusive will only help as its a small community. The OSM import event is an example. Consider billing it as a collaboration and looking for more of those opportunities. Also people at the OSGEO meetings have asked for the types of intro talk that maptime is providing. Consider posting maptime events on the OSGIS list and being that channel for the OSGEO group.
 
 #### Our Thoughts
-
-
-## Final Thoughts
 
