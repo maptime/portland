@@ -1,7 +1,7 @@
 ---
 layout: post
-category: post
 title: MaptimePDX Feedback Survey Results
+author: Matt Sayler
 ---
 
 
@@ -16,6 +16,8 @@ Responses: 9/10
 
 ![]()
 
+#### Respondent Comments
+
  - mobile
 
 #### Our Thoughts
@@ -26,6 +28,8 @@ Responses: 9/10
 Responses: 10/10
 
 ![]()
+
+#### Respondent Comments
 
  - I love the idea of Hack time, but I think it sounds advanced to a lot of folks who might be scared off by it. Hack time might need a better name to be compatible with Maptime... Something like "problem solving" time?
  - I like all three -- usually in combination in a single session, e.g. Tutorial + Hack Time Show-and-Tell + Hack Time
@@ -40,6 +44,8 @@ Responses: 10/10
 Responses: 10/10
 
 ![]()
+
+#### Respondent Comments
 
  - Obviously the more local the better!
  - calagator is fantastic; am not fond of google groups
