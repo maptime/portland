@@ -34,7 +34,7 @@ Responses: 9/10
 
 Responses: 10/10
 
-![](/MoreOf.png)
+![](../img/2014-12-07-SurveyResults/MoreOf.png)
 
 #### Respondent Comments
 
@@ -50,7 +50,7 @@ Responses: 10/10
 
 Responses: 10/10
 
-![](/ContactCommunity.png)
+![](../img/2014-12-07-SurveyResults/ContactCommunity.png)
 
 #### Respondent Comments
 
@@ -65,7 +65,7 @@ Responses: 10/10
 
 Responses: 10/10
 
-![](/ContactOrganizers.png)
+![](../img/2014-12-07-SurveyResults/ContactOrganizers.png)
 
 #### Our Thoughts
 
