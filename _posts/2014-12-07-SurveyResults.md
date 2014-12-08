@@ -21,7 +21,7 @@ Total Responses: 10
 
 Responses: 9/10
 
-![](/Learn.png)
+![](./img/2014-12-07-SurveyResults/Learn.png)
 
 #### Respondent Comments
 
