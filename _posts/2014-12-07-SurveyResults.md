@@ -109,7 +109,7 @@ People would like to learn about git/github, web map api's (such as Leaflet), pr
 ##### What would you like to see more of?
 People are fans of tutorials and show & tells. Slightly less so of hack-times. 
 
-#### Is there something you would be interested in teaching?
+##### Is there something you would be interested in teaching?
 Two respondents are potentially interested in teaching or maybe being a mentor.
 
 ##### How would you prefer to send/receive communications?
