@@ -4,16 +4,8 @@ title: MaptimePDX Feedback Survey Results
 author: Matt Sayler
 ---
 
-## tl:dr
-
-We ran a feedback survey in November to get a better idea of where we should MaptimePDX in 2015. 
-
-According to that survey, people would like to learn about git/github, web map api's (such as Leaflet), programming basics (i.e. python), and web basics (html, css, etc). 
-
-People are fans of tutorials and show & tells more than hack-times. 
-
-
-## Survey Results
+## In-Depth Survey Results
+[(jump to the summary)](#Summary)
 
 Total Responses: 10
 
@@ -26,8 +18,6 @@ Responses: 9/10
 #### Respondent Comments
 
  - mobile
-
-#### Our Thoughts
 
 
 ### What would you like to see more of?
@@ -43,8 +33,6 @@ Responses: 10/10
  - I think that being involved in a project will help me best learn concepts, tools, and methods.
  - I haven't attended much but when I have I see new people that are interested but maybe aren't taking that next step. Consider pairing people up or doing a 'speed dating' style round-robin to introduce folks and see if there is a match on projects whether mentor/learner or collaborators. Get side or group projects going outside of meetups. Get that energy building The Portland Python Mentoring group has an interesting structure. People pair up at the beginning of the night and work together on something.
 
-#### Our Thoughts
-
 
 ### How would you prefer we communicate with you, the community?
 
@@ -58,16 +46,12 @@ Responses: 10/10
  - calagator is fantastic; am not fond of google groups
  - It would be interesting and inspiring to receive a newsletter that summarizes what was covered/done at MapTime events and describes projects people are working on. Of course, this would take a considerable amount of work to produce.
 
-#### Our Thoughts
-
 
 ### How would you prefer to communicate with us, the organizers?
 
 Responses: 10/10
 
 ![](../img/2014-12-07-SurveyResults/ContactOrganizers.png)
-
-#### Our Thoughts
 
 
 ### What are we doing well?
@@ -78,8 +62,6 @@ Responses: 10/10
  - Being all-around awesome (sorry, I know that's vague. But it's true.)
  - Keeping it going!
 
-#### Our Thoughts
-
 
 ### How can we improve?
 
@@ -88,8 +70,6 @@ Responses: 10/10
  - I feel like I always see Maptime dates... the day after they've happened. I'm trying to be more proactive about it -- it might just be me.
  - Being more inclusive of the non-hacker/inexperienced but interested. It is very intimidating being in a room of very experienced and intelligent people and having a hack session and not knowing where you fit in as you've not done any of the work before. I recognize that this might not be interesting for all attendees, but maybe a quarterly 'beginner night' would be enticing for those interested.
  - More engaging speaking style, more hands-on, more discussion built-in, get people excited! Standard 40 minute talk after work is recipe for tiredness. If maptime is trying to be different, let's see it!
-
-#### Our Thoughts
 
 
 ### Anything else you would like to tell us?
@@ -100,5 +80,27 @@ Responses: 10/10
  - Thank you for putting in the time to organize MapTimePDX! This is a great survey! Good job! :-)
  - Appreciate your guys' energy and persistence. Optimally you want to get to where the group has a life of its own. Monthly meetups become a focal point and not the only thing. More collaboration with the PDX OSGEO group. There's some overlap in the group and continuing to be inclusive will only help as its a small community. The OSM import event is an example. Consider billing it as a collaboration and looking for more of those opportunities. Also people at the OSGEO meetings have asked for the types of intro talk that maptime is providing. Consider posting maptime events on the OSGIS list and being that channel for the OSGEO group.
 
-#### Our Thoughts
 
+<a name="Summary"></a>
+## tl;dr
+
+We ran a feedback survey in November to get a better idea of where we should MaptimePDX in 2015. Here is a quick summary of the results. 
+
+##### What do you most want to learn about?
+ - People would like to learn about git/github, web map api's (such as Leaflet), programming basics (i.e. python), and web basics (html, css, etc). 
+
+##### What would you like to see more of?
+ - People are fans of tutorials and show & tells. Slightly less so of hack-times. 
+
+##### How would you prefer to send/receive communications?
+ - Email, the Google Group, and Twitter are the prefered methods of communication (we'll be bringing Eventbrite into the mix for a trial run too). On a side note, we have a new option for emailing us: hello+maptimepdx@maptime.io will direct to the organizers.
+
+##### What are we doing well?
+ - It sounds like we're doing well in general.
+
+##### How can we improve?
+ - Ideas for improvement include making sure we keep beginners in mind, improved planning/preparation, shorten presentations (40+ minutes is too long), and workgroups/mentorships.
+
+#### Our Take-Aways
+
+ - 
