@@ -127,13 +127,13 @@ Here are our thoughts culled from the suvey results and discussion of those resu
 #### Future Surveys
 We'll continue to send out feedback surveys periodically, with some minor tweaks. First, we'll try to break them down into small bites, like 1-3 quetions. Second, we'll probably switch to Google Forms to give us a little more control. I used SurveyMonkey this time around thinking the free version let us download the results data at least in csv. Not the case; lesson learned!
 
-#### MaptimePDX Communications
+#### Communications
 Our current forms of communication seem to adequate, if not a little clunky at times. We'll continue using [Twitter](https://twitter.com/maptimepdx), the [Google Group](https://groups.google.com/forum/#!forum/maptimepdx), and [Calagator](http://calagator.org) as our primary methods of communicating with the community. We're also going to look at adding Eventbrite (so we can get some RSVP capabilities) and cross posting to other related groups (PDX-Osgeo) to the mix. We'd also like to figure out a way to streamline communications so we're more consistent/timely with the channels of communication we use (suggestions welcome).
 
-Likewise, communicating with the organizers via [Twitter](https://twitter.com/maptimepdx), the [Google Group](https://groups.google.com/forum/#!forum/maptimepdx), and [direct email](mailto:hello+maptimepdx@maptime.io) seem to be adequate (again, sometimes clunky). On the email front, we now have an alias setup for [hello@maptime.io](mailto:hello@maptime.io) that will reach us directly: [hello+maptimepdx@maptime.io](mailto:hello+maptimepdx@maptime.io).
+Likewise, communicating with the organizers via [Twitter](https://twitter.com/maptimepdx), the [Google Group](https://groups.google.com/forum/#!forum/maptimepdx), and [direct email](mailto:hello+maptimepdx@maptime.io) seem to be adequate (again, sometimes clunky). On the email front, we now have an alias set up that will reach us directly: [hello+maptimepdx@maptime.io](mailto:hello+maptimepdx@maptime.io).
 
 #### Learning
 We now have a better idea what the MaptimePDX community wants to learn about, which will help us plan out the coming year. We are also going to work on creating some kind of pilot workgroup/mentorship program. 
 
-#### General Improvements
+#### General
 
