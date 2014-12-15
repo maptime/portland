@@ -138,3 +138,5 @@ As we've settled in to our roles as organizers, it's become more and more appare
 
 ## Wrap-Up
 Thank you to everyone who filled out the survey. And thank you everyone who has attended a Maptime session. Maptime has had a pretty good year, and we're hoping to make 2015 even better!
+
+-Team MaptimePDX
