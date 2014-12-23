@@ -4,17 +4,19 @@ title: MaptimePDX Feedback Survey Results
 author: Matt Sayler
 ---
 
-## In-Depth Survey Results
+The following is an in-depth look into our recent survey to the Portland, Oregon Maptime chapter. (add more intro and summary of article)
 
 [>>Jump to the summary](#Summary)
 
-##### Total Number of Respondents: 10
 
 ### What do you most want to learn about?
 
-Answered/Skipped: 9/1
+- Total Number of Respondents: 10
+- Answered/Skipped: 9/1
 
-![](../img/2014-12-07-SurveyResults/Learn.png)
+__Results__
+
+![](img/2014-12-07-SurveyResults/Learn.png)
 
 #### Respondent Comments
 
@@ -26,7 +28,7 @@ Answered/Skipped: 9/1
 
 Answered/Skipped: 10/0
 
-![](../img/2014-12-07-SurveyResults/MoreOf.png)
+![](img/2014-12-07-SurveyResults/MoreOf.png)
 
 #### Respondent Comments
 
@@ -50,7 +52,7 @@ Answered/Skipped: 2/8
 
 Answered/Skipped: 10/0
 
-![](../img/2014-12-07-SurveyResults/ContactCommunity.png)
+![](img/2014-12-07-SurveyResults/ContactCommunity.png)
 
 #### Respondent Comments
 
@@ -63,7 +65,7 @@ Answered/Skipped: 10/0
 
 Answered/Skipped: 10/0
 
-![](../img/2014-12-07-SurveyResults/ContactOrganizers.png)
+![](img/2014-12-07-SurveyResults/ContactOrganizers.png)
 
 
 ### What are we doing well?
