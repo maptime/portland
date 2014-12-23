@@ -96,11 +96,11 @@ Answered/Skipped: 6/4
 Answered/Skipped: 6/4
 
  - If all the Maptimes are doing this survey, would love to see the answers to question 1 as a bar chart for all of Maptime, and also for Maptime by city, to see if there are geographic differences in what people are interested in. No matter what, you should present the results at a Maptime!
- - my email, and name: <redacted>
+ - my email, and name: {redacted}
  - Keep up the good work!
  - I've been unable to make it for some time so perhaps you've done some of the things I've suggested. You're doing a great job creating a meeting space and community. Keep it up. Yer the tops!
  - Thank you for putting in the time to organize MapTimePDX! This is a great survey! Good job! :-)
- - Appreciate your guys' energy and persistence. Optimally you want to get to where the group has a life of its own. Monthly meetups become a focal point and not the only thing. More collaboration with the PDX OSGEO group. There's some overlap in the group and continuing to be inclusive will only help as its a small community. The OSM import event is an example. Consider billing it as a collaboration and looking for more of those opportunities. Also people at the OSGEO meetings have asked for the types of intro talk that maptime is providing. Consider posting maptime events on the OSGIS list and being that channel for the OSGEO group. Cheers, <redacted>
+ - Appreciate your guys' energy and persistence. Optimally you want to get to where the group has a life of its own. Monthly meetups become a focal point and not the only thing. More collaboration with the PDX OSGEO group. There's some overlap in the group and continuing to be inclusive will only help as its a small community. The OSM import event is an example. Consider billing it as a collaboration and looking for more of those opportunities. Also people at the OSGEO meetings have asked for the types of intro talk that maptime is providing. Consider posting maptime events on the OSGIS list and being that channel for the OSGEO group. Cheers, {redacted}
 
 
 <a name="Summary"></a>
