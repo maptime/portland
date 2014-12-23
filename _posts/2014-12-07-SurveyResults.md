@@ -4,14 +4,10 @@ title: MaptimePDX Feedback Survey Results
 author: Matt Sayler
 ---
 
-The following is an in-depth look into our recent survey to the Portland, Oregon Maptime chapter. (add more intro and summary of article)
-
-[>>Jump to the summary](#Dec2014Summary)
-
+The following is an in-depth look into our recent survey to the Portland, Oregon Maptime chapter. We ran it for a couple weeks in November and ended up with ten respondents. If you you don't want to look at the detailed responses, you can [skip to the summary](#Dec2014Summary).
 
 ### What do you most want to learn about?
 
-- Total Number of Respondents: 10
 - Answered/Skipped: 9/1
 
 __Results__
@@ -143,3 +139,4 @@ As we've settled in to our roles as organizers, it's become more and more appare
 Thank you to everyone who filled out the survey. And thank you everyone who has attended a Maptime session. Maptime has had a pretty good year, and we're hoping to make 2015 even better!
 
 -Team MaptimePDX
+
