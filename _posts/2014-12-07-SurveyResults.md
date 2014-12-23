@@ -6,7 +6,7 @@ author: Matt Sayler
 
 The following is an in-depth look into our recent survey to the Portland, Oregon Maptime chapter. (add more intro and summary of article)
 
-[>>Jump to the summary](#Summary)
+[>>Jump to the summary](#Dec2014Summary)
 
 
 ### What do you most want to learn about?
@@ -103,7 +103,7 @@ Answered/Skipped: 6/4
  - Appreciate your guys' energy and persistence. Optimally you want to get to where the group has a life of its own. Monthly meetups become a focal point and not the only thing. More collaboration with the PDX OSGEO group. There's some overlap in the group and continuing to be inclusive will only help as its a small community. The OSM import event is an example. Consider billing it as a collaboration and looking for more of those opportunities. Also people at the OSGEO meetings have asked for the types of intro talk that maptime is providing. Consider posting maptime events on the OSGIS list and being that channel for the OSGEO group. Cheers, {redacted}
 
 
-<a name="Summary"></a>
+<a name="Dec2014Summary"></a>
 
 ## tl&#59;dr (Results Summary)
 
