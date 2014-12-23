@@ -104,6 +104,7 @@ Answered/Skipped: 6/4
 
 
 <a name="Summary"></a>
+
 ## tl&#59;dr (Results Summary)
 
 ##### What do you most want to learn about?
