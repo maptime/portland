@@ -104,7 +104,7 @@ Answered/Skipped: 6/4
 
 
 <a name="Summary"></a>
-## tl;dr (Results Summary)
+## tl&#59;dr (Results Summary)
 
 ##### What do you most want to learn about?
 People would like to learn about git/github, web map api's (such as Leaflet), programming basics (i.e. python), and web basics (html, css, etc). 
