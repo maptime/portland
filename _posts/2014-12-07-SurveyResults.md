@@ -12,7 +12,7 @@ The following is an in-depth look into our recent survey to the Portland, Oregon
 
 __Results__
 
-![](img/2014-12-07-SurveyResults/Learn.png)
+![](http://maptime.io/portland/img/2014-12-07-SurveyResults/Learn.png)
 
 #### Respondent Comments
 
@@ -24,7 +24,7 @@ __Results__
 
 Answered/Skipped: 10/0
 
-![](img/2014-12-07-SurveyResults/MoreOf.png)
+![](http://maptime.io/portland/img/2014-12-07-SurveyResults/MoreOf.png)
 
 #### Respondent Comments
 
@@ -48,7 +48,7 @@ Answered/Skipped: 2/8
 
 Answered/Skipped: 10/0
 
-![](img/2014-12-07-SurveyResults/ContactCommunity.png)
+![](http://maptime.io/portland/img/2014-12-07-SurveyResults/ContactCommunity.png)
 
 #### Respondent Comments
 
@@ -61,7 +61,7 @@ Answered/Skipped: 10/0
 
 Answered/Skipped: 10/0
 
-![](img/2014-12-07-SurveyResults/ContactOrganizers.png)
+![](http://maptime.io/portland/img/2014-12-07-SurveyResults/ContactOrganizers.png)
 
 
 ### What are we doing well?
