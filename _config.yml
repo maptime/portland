@@ -1,6 +1,6 @@
 baseurl: /portland
 permalink: pretty
-markdown: kramdown
+markdown: redcarpet
 paginate: 5
 repo: portland
 maptime:
