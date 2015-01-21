@@ -3,6 +3,7 @@ permalink: pretty
 markdown: kramdown
 paginate: 5
 repo: portland
+github_org: maptime
 maptime:
   chapter: MaptimePDX
   twitter: MaptimePDX
