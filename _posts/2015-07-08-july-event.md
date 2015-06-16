@@ -2,7 +2,7 @@
 layout: event
 category: event
 title: Justin Palmer Workshop
-rsvp: https://www.eventbrite.com/myevent?eid=17418147147
+rsvp: https://www.eventbrite.com/e/july-maptimepdx-tickets-17418147147
 ---
 
 ### Learn to parse data and create maps with [Justin Palmer](https://twitter.com/caged)!
