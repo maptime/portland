@@ -12,8 +12,8 @@ Google Drive link: [http://bit.ly/1H65bAQ][1]
     1. What is the source? Content?
     2. What attributes are included? How are they defined?
 
-###Classification – data is usually put into some categories or groups before 
-it can be displayed
+###Classification 
+####Data is usually put into some categories or groups before it can be displayed
  1. Categorical: types of the feature based on attributes
  2. Numerical: measured values (ex., low to high)
 
