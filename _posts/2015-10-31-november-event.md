@@ -5,7 +5,7 @@ title: Esri Open Source Tools - November Meetup
 rsvp: http://www.meetup.com/MaptimePDX/events/226379684/
 ---
 
-MaptimePDX is excited to welcome [John Gravois](https://twitter.com/geogangster) from Esri for November's meetup!
+MaptimePDX is excited to welcome [John Gravois](https://twitter.com/geogangster) from [Esri](https://developers.arcgis.com/) for November's meetup!
 
 Come and check out some of Esri's free resources for publishing data, performing spatial analysis and creating websites to share your work.
 
