@@ -1,7 +1,7 @@
 ---
 layout: event
 category: event
-title: MaptimePDX - Esri Tools
+title: Esri Open Source Tools - November Meetup
 rsvp: http://www.meetup.com/MaptimePDX/events/226379684/
 ---
 
