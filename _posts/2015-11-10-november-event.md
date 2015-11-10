@@ -22,7 +22,8 @@ This is a hands-on and beginner friendly event! Bring your laptop and questions.
 Come hungry! Pizza provided by Esri.
 
 Thank you to WeWork for providing the space!
-
+- Tuesday Nov. 10
+- 6pm
 
 Lots to cover so [RSVP](http://www.meetup.com/MaptimePDX/events/226379684/) and get there early! Note the new location:
 [US Custom House, 220 NW 8th Ave, Portland, OR 97209](https://a.tiles.mapbox.com/v4/manny.o1m3pg2k/page.html?access_token=pk.eyJ1IjoibWFubnkiLCJhIjoiMzBCNHFQUSJ9.VQQ9ZSW7viFT1yLhLiWLSA#17/45.52477/-122.67821).
