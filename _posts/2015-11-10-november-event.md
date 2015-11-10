@@ -22,7 +22,9 @@ This is a hands-on and beginner friendly event! Bring your laptop and questions.
 Come hungry! Pizza provided by Esri.
 
 Thank you to WeWork for providing the space!
+
 - Tuesday Nov. 10
+
 - 6pm
 
 Lots to cover so [RSVP](http://www.meetup.com/MaptimePDX/events/226379684/) and get there early! Note the new location:
