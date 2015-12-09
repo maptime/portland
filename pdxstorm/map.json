@@ -68,7 +68,7 @@
         "Address": "2123 SE Hogan Road",
         "City": "Gresham",
         "State": "OR",
-        "Directions": "<a href='https://www.google.com/maps/place/2123+SE+Hogan+Rd,+Gresham,+OR+97080/@45.4835987,-122.4173366,17z/data=!3m1!4b1!4m2!3m1!1s0x549599025e75f07d:0x4ac057d469dd817f>Click Here for Directions</a>",
+        "Directions": "<a href='https://www.google.com/maps/place/2123+SE+Hogan+Rd,+Gresham,+OR+97080/@45.4835987,-122.4173366,17z/data=!3m1!4b1!4m2!3m1!1s0x549599025e75f07d:0x4ac057d469dd817f'>Click Here for Directions</a>",
         "Description": "Gresham residents who need sandbags to protect their property from flooding or high water may use the City's free, fill-you-own sandbag station, located at the Operations Center on 2123 S.E. Hogan Road. The sandbag station is open 24 hours a day and offers sand, shovels and bags to residents for home or private use. Sandbags are not available for commercial or contractor consumption.",
         "Link": "<a href='http://www.kgw.com/story/news/local/2015/12/07/where-you-can-get-free-sandbags/76940706/'>kgw.com</a>",
         "marker-color": "#548cba"
