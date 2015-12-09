@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=utf-8 />
+<title>Free Sandbag Locations</title>
+<meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+<script src='https://api.mapbox.com/mapbox.js/v2.2.3/mapbox.js'></script>
+<link href='https://api.mapbox.com/mapbox.js/v2.2.3/mapbox.css' rel='stylesheet' />
+<style>
+  body { margin:0; padding:0; }
+  #map { position:absolute; top:0; bottom:0; width:100%; }
+</style>
+</head>
+<body>
+
+
+<div id='map'></div>
+
+<!-- jQuery is required for this example. -->
+<script src='https://code.jquery.com/jquery-1.11.0.min.js'></script>
+<script>
+L.mapbox.accessToken = 'pk.eyJ1IjoibWFubnkiLCJhIjoiY2loeTd1OHRzMDNvcHVra293OGtoaXZrdCJ9.plVabQv75XaiFvGDcrcWCA';
+var url = 'https://gist.githubusercontent.com/mannylopez/20354dc0b39d82258976/raw/c0cad3d1c8e86c7ad911937336cccc99a71d7796/map.geojson';
+
+var map = L.mapbox.map('map', 'mapbox.streets')
+  .setView([45.380629, -122.360289], 10)
+  .addControl(L.mapbox.geocoderControl('mapbox.places'))
+  .addControl(L.mapbox.shareControl());
+
+function load() {
+  // Fetch just the contents of a .geojson file from GitHub by passing
+  // `application/vnd.github.v3.raw` to the Accept header
+  // As with any other AJAX request, this technique is subject to the Same Origin Policy:
+  // http://en.wikipedia.org/wiki/Same_origin_policy the server delivering the request should support CORS.
+var featureLayer = L.mapbox.featureLayer();
+
+  $.ajax({
+    headers: {
+      'Accept': 'application/vnd.github.v3.raw'
+    },
+    xhrFields: {
+      withCredentials: false
+    },
+    dataType: 'json',
+    url: url,
+    success: function(geojson) {
+        // On success add fetched data to the map.
+        featureLayer = L.mapbox.featureLayer(geojson).addTo(map);
+
+featureLayer.eachLayer(function(layer) {
+
+    // here you call `bindPopup` with a string of HTML you create - the feature
+    // properties declared above are available under `layer.feature.properties`
+    var content =
+        '<p>' + layer.feature.properties.Title + '<br \/>' + '<h6>Address:</h6>' + layer.feature.properties.Address + '<br \/>' +
+        '<h6>City:</h6>' + layer.feature.properties.City + '<br \/>' +
+        '<h6>Directions:</h6>' + layer.feature.properties.Directions + '<br \/>' +
+        '<h6>Description:</h6>' + layer.feature.properties.Description + '<br \/>' +
+        '<h6>Link:</h6>' + layer.feature.properties.Link + '<\/p>';
+    layer.bindPopup(content);
+});
+
+    }
+  });
+}
+
+$(load);
+</script>
+
+
+</body>
+</html>
