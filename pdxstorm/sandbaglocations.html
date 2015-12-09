@@ -9,15 +9,58 @@
 <script src='https://api.mapbox.com/mapbox.js/v2.2.3/mapbox.js'></script>
 <link href='https://api.mapbox.com/mapbox.js/v2.2.3/mapbox.css' rel='stylesheet' />
 <style>
-  body { margin:0; padding:0; }
-  #map { position:absolute; top:0; bottom:0; width:100%; }
+  /*body { margin:0; padding:0; }
+  #map { position:absolute; top:0; bottom:0; width:100%; }*/
+  body {
+  background:#404040;
+  color:#f8f8f8;
+  font:500 20px/26px 'Helvetica Neue', Helvetica, Arial, Sans-serif;
+  margin:0;
+  padding:0;
+  -webkit-font-smoothing:antialiased;
+  }
+/**
+ * The page is split between map and sidebar - the sidebar gets 1/3, map
+ * gets 2/3 of the page. You can adjust this to your personal liking.
+ */
+.sidebar {
+  position:absolute;
+  width:33.3333%;
+  height:100%;
+  top:0;left:0;
+  overflow:auto;
+  border-right:1px solid rgba(0,0,0,0.25);
+  }
+.map {
+  position:absolute;
+  left:33.3333%;
+  width:66.6666%;
+  top:0;bottom:0;
+  }
+.content {
+  margin-left:10px;
+}
+
+
 </style>
 <meta property="og:image" content="http://maptime.io/portland/pdxstorm/img/fbpreview.jpg" />
 </head>
 <body>
 
+<div class='sidebar'>
+  <div class='content'>
+    <h3>Free Sandbags in Portland</h3>
+    <p>Strong winds may bring fallen trees, tree limbs, and power lines onto streets.</p>
 
-<div id='map'></div>
+    <p>Residents are advised to notify PBOT of debris, mud, rocks, trees, or branches blocking a road by calling our 24/7 maintenance dispatch hotline at 503-823-1700.</p>
+
+    <p>If you see a downed power line, call 911. Report power outages in the Portland area to PGE at 503-464-7777 or Pacific Power at 1-877-508-5088.</p>
+
+    <p>Residents living in the Johnson Creek area who decided to evacuate to higher ground, the Mt. Scott Community Center (5530 SE 72nd Ave, Portland OR 97206) will open at 3 p.m. as a reception center to provide shelter to residents and their pets. The American Red Cross and Multnomah County Animal Services will be on hand as a resource. For additional information or assistance evacuating, call 211info by dialing 2-1-1 from any phone in the Portland area or see www.211info.org. </p>
+  </div>
+</div>
+
+<div id='map' class='map'>Map</div>
 
 <!-- jQuery is required for this example. -->
 <script src='https://code.jquery.com/jquery-1.11.0.min.js'></script>
@@ -69,7 +112,6 @@ featureLayer.eachLayer(function(layer) {
 
 $(load);
 </script>
-
 
 </body>
 </html>
