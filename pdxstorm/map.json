@@ -1,0 +1,345 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Free Sandbag Pickup",
+        "Address": "SE Holgate Blvd & SE 88th Ave",
+        "City": "Portland",
+        "State": "OR",
+        "Directions": "<a href='https://www.google.com/maps/place/SE+Holgate+Blvd+%26+SE+88th+Ave,+Portland,+OR+97266/@45.4897938,-122.5720923,96m/data=!3m1!1e3!4m2!3m1!1s0x5495a0307d7f12c1:0x203cd5394e6fde62!6m1!1e1?hl=en'>Click Here for Directions</a>",
+        "Description": "SE 88th Avenue just south of Holgate Boulevard in the parking lot at Lents Park. Enter parking lot at the bottom of the hill, and follow one-way traffic to the sand pile at the exit on the east side of SE 88th. No shovels are provided.",
+        "Link": "<a href='http://www.kgw.com/story/news/local/2015/12/07/where-you-can-get-free-sandbags/76940706/'>kgw.com</a>",
+        "marker-color": "#548cba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.572326,
+          45.490113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Free Sandbag Pickup",
+        "Address": "SE Harold St & SE 111th Ave",
+        "City": "Portland",
+        "State": "OR",
+        "Directions": "<a href='https://www.google.com/maps?q=SE+111th+ave+and+harold+st,+portland,+or&hl=en&hnear=SE+Harold+St+%26+SE+111th+Ave,+Portland,+Multnomah,+Oregon+97266&gl=us&t=m&z=16'>Click Here for Directions</a>",
+        "Description": "SE 111th Avenue and Harold Street at the southeast corner of the intersection. No shovels are provided.",
+        "Link": "<a href='http://www.kgw.com/story/news/local/2015/12/07/where-you-can-get-free-sandbags/76940706/'>kgw.com</a>",
+        "marker-color": "#548cba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.548839,
+          45.482742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Free Sandbag Pickup",
+        "Address": "6732 SW 42nd Ave",
+        "City": "Portland",
+        "State": "OR",
+        "Directions": "<a href='https://www.google.com/maps?q=sw+42nd+ave+and+vermont+st,+portland,+or&hl=en&sll=45.482842,-122.549225&sspn=0.013013,0.027874&gl=us&hnear=SW+Vermont+St+%26+SW+42nd+Ave,+Portland,+Multnomah,+Oregon+97219&t=m&z=17'>Click Here for Directions</a>",
+        "Description": "SW 42nd Avenue and Vermont Street in the lower parking lot of Gabriel Park; enter Gabriel Park from Vermont. No shovels are provided.",
+        "Link": "<a href='http://www.kgw.com/story/news/local/2015/12/07/where-you-can-get-free-sandbags/76940706/'>kgw.com</a>",
+        "marker-color": "#548cba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.719294,
+          45.475658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Free Sandbag Pickup",
+        "Address": "2123 SE Hogan Road",
+        "City": "Gresham",
+        "State": "OR",
+        "Directions": "<a href='https://www.google.com/maps/place/2123+SE+Hogan+Rd,+Gresham,+OR+97080/@45.4835987,-122.4173366,17z/data=!3m1!4b1!4m2!3m1!1s0x549599025e75f07d:0x4ac057d469dd817f>Click Here for Directions</a>",
+        "Description": "Gresham residents who need sandbags to protect their property from flooding or high water may use the City's free, fill-you-own sandbag station, located at the Operations Center on 2123 S.E. Hogan Road. The sandbag station is open 24 hours a day and offers sand, shovels and bags to residents for home or private use. Sandbags are not available for commercial or contractor consumption.",
+        "Link": "<a href='http://www.kgw.com/story/news/local/2015/12/07/where-you-can-get-free-sandbags/76940706/'>kgw.com</a>",
+        "marker-color": "#548cba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.415148,
+          45.483606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Free Sandbag Pickup",
+        "Address": "342 SW 4th St",
+        "City": "Troutdale",
+        "State": "OR",
+        "Directions": "<a href='https://www.google.com/maps/place/342+SW+4th+St,+Troutdale,+OR+97060/@45.5386398,-122.3926457,17z/data=!3m1!4b1!4m2!3m1!1s0x5495bd56908595a9:0x97f285c3d7ba1892?hl=en'>Click Here for Directions</a>",
+        "Description": "Free sand and sandbags are available for Troutdale residents that are at risk for flooding.  Call the Public Works Shop (503-674-3300) during regular business hours to arrange pickup of sandbags.  The Shop is located at 342 SW 4th  Street. You are required to fill and transport the sandbags yourself in a manner that does not disrupt City operations.  Bring your own shovel and help from friends to accelerate the process of filling, tying, and loading the bags.",
+        "Link": "<a href='http://www.kgw.com/story/news/local/2015/12/07/where-you-can-get-free-sandbags/76940706/'>kgw.com</a>",
+        "marker-color": "#548cba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390446,
+          45.53864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Free Sandbag Pickup",
+        "Address": "28655 SE Hwy 212",
+        "City": "Boring",
+        "State": "OR",
+        "Directions": "<a href='https://www.google.com/maps/place/28655+SE+Hwy+212,+Boring,+OR+97009/data=!4m2!3m1!1s0x54959bbeebc1ea7b:0x2cf9cd18607392a1?sa=X&ved=0ahUKEwj-somqxc3JAhVU62MKHYJ2DmoQ8gEIHDAA'>Click Here for Directions</a>",
+        "Description": "503-663-4638 Behind Fire Station. During flooding events, call ahead to ensure sandbag availability. Sandbags are for residential use only. All sites are self-service. Bring your shovel. Public inquiry line at 503-655-8224 from 8 a.m. to 9 p.m. (Mon & Tues).",
+        "Link": "<a href='http://www.clackamas.us/emergency/sandbags.html'>www.clackamas.us/emergency/sandbags.html</a>",
+        "marker-color": "#548cba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.368334,
+          45.432856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Free Sandbag Pickup",
+        "Address": "32200 SE Judd Rd",
+        "City": "Eagle Creek",
+        "State": "OR",
+        "Directions": "<a href='https://www.google.com/maps/place/32200+SE+Judd+Rd,+Eagle+Creek,+OR+97022/@45.368199,-122.3336807,17z/data=!3m1!4b1!4m2!3m1!1s0x5495835f1ace8a41:0xfeb2a0cd4dbd9fab'>Click Here for Directions</a>",
+        "Description": "503-663-4638 Eagle Creek Fire Station. During flooding events, call ahead to ensure sandbag availability. Sandbags are for residential use only. All sites are self-service. Bring your shovel. Public inquiry line at 503-655-8224 from 8 a.m. to 9 p.m. (Mon & Tues).",
+        "Link": "<a href='http://www.clackamas.us/emergency/sandbags.html'>www.clackamas.us/emergency/sandbags.html</a>",
+        "marker-color": "#548cba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.331503,
+          45.368199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Free Sandbag Pickup",
+        "Address": "1470 NE Territorial Rd",
+        "City": "Canby",
+        "State": "OR",
+        "Directions": "<a href='https://www.google.com/maps/place/1470+NE+Territorial+Rd,+Canby,+OR+97013/@45.281814,-122.6798697,17z/data=!3m1!4b1!4m2!3m1!1s0x54956ff3e14c6a37:0x51578689c4977dde'>Click Here for Directions</a>",
+        "Description": "(503) 266-4021. (503) 266-8211 afterhours. No shovels are provided. Canby Public Works.  Public inquiry line at 503-655-8224 from 8 a.m. to 9 p.m. (Mon & Tues).",
+        "Link": "<a href='http://www.clackamas.us/emergency/sandbags.html'>www.clackamas.us/emergency/sandbags.html</a>",
+        "marker-color": "#548cba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.677702,
+          45.281814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Free Sandbag Pickup",
+        "Address": "694 NE 4th Ave",
+        "City": "Canby",
+        "State": "OR",
+        "Directions": "<a href='https://www.google.com/maps/place/694+NE+4th+Ave,+Canby,+OR+97013/@45.267971,-122.6887677,17z/data=!3m1!4b1!4m2!3m1!1s0x5495657cad23ce39:0xe555d4ce96182f18'>Click Here for Directions</a>",
+        "Description": "(503) 266-4021. (503) 266-8211 afterhours. Clackamas County Fair Grounds, Red Lot. No shovels are provided. Public inquiry line at 503-655-8224 from 8 a.m. to 9 p.m. (Mon & Tues).",
+        "Link": "<a href='http://www.clackamas.us/emergency/sandbags.html'>www.clackamas.us/emergency/sandbags.html</a>",
+        "marker-color": "#548cba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.68659,
+          45.267956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Free Sandbag Pickup",
+        "Address": "261 NE 5th Ave",
+        "City": "Estacada",
+        "State": "OR",
+        "Directions": "<a href='https://www.google.com/maps/place/261+NE+5th+Ave,+Estacada,+OR+97023/@45.2857123,-122.3345372,17z/data=!4m2!3m1!1s0x549581eca7551f4f:0xb995211386a1b9e3'>Click Here for Directions</a>",
+        "Description": "Estacada Fire District. No shovels are provided. Public inquiry line at 503-655-8224 from 8 a.m. to 9 p.m. (Mon & Tues).",
+        "Link": "<a href='http://www.clackamas.us/emergency/sandbags.html'>www.clackamas.us/emergency/sandbags.html</a>",
+        "marker-color": "#548cba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.333228,
+          45.285984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Free Sandbag Pickup",
+        "Address": "18595 Portland Ave",
+        "City": "Gladstone",
+        "State": "OR",
+        "Directions": "<a href='https://www.google.com/maps/place/18595+Portland+Ave,+Gladstone,+OR+97027/@45.387635,-122.6026667,17z/data=!3m1!4b1!4m2!3m1!1s0x54957421a756e6ed:0xba6390e16833894d'>Click Here for Directions</a>",
+        "Description": "Gladstone Public Works Department\r503-656-7957 \r18595 Portland Ave.\r(This site is for Gladstone residents only.) No shovels are provided. Public inquiry line at 503-655-8224 from 8 a.m. to 9 p.m. (Mon & Tues).",
+        "Link": "<a href='http://www.clackamas.us/emergency/sandbags.html'>www.clackamas.us/emergency/sandbags.html</a>",
+        "marker-color": "#548cba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.600478,
+          45.387627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Free Sandbag Pickup",
+        "Address": "69634 US-26",
+        "City": "Welches",
+        "State": "OR",
+        "Directions": "<a href='https://www.google.com/maps/place/Hoodland+Fire+District+Station+251/@45.3443917,-121.9503716,17z/data=!3m1!4b1!4m2!3m1!1s0x54958a7ea6824d23:0x84b4e76bfeacfe65'>Click Here for Directions</a>",
+        "Description": "Hoodland Fire District Main Fire Station\r503-622-3256\r69634 US-26 No shovels are provided. Public inquiry line at 503-655-8224 from 8 a.m. to 9 p.m. (Mon & Tues).",
+        "Link": "<a href='http://www.clackamas.us/emergency/sandbags.html'>www.clackamas.us/emergency/sandbags.html</a>",
+        "marker-color": "#548cba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.948194,
+          45.344392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Free Sandbag Pickup",
+        "Address": "5520 Willow Ln",
+        "City": "Lake Oswego",
+        "State": "OR",
+        "Directions": "<a href='https://www.google.com/maps/place/5520+Willow+Ln,+Lake+Oswego,+OR+97035/@45.3990593,-122.7359291,17z/data=!3m1!4b1!4m2!3m1!1s0x549572e142cc4fe1:0xca35d5f7bf48f030'>Click Here for Directions</a>",
+        "Description": "Lake Oswego\r503-635-0280\rLake Oswego Skate Park\r5520 Willow Lane (at entrance) No shovels are provided. Canby Public Works.  Public inquiry line at 503-655-8224 from 8 a.m. to 9 p.m. (Mon & Tues).",
+        "Link": "<a href='http://www.clackamas.us/emergency/sandbags.html'>www.clackamas.us/emergency/sandbags.html</a>",
+        "marker-color": "#548cba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.733751,
+          45.399044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Free Sandbag Pickup",
+        "Address": "6600 SE Lake Rd",
+        "City": "Milwaukie",
+        "State": "OR",
+        "Directions": "<a href='https://www.google.com/maps/place/6600+SE+Lake+Rd,+Milwaukie,+OR+97222/@45.4255469,-122.5975442,17z/data=!3m1!4b1!4m2!3m1!1s0x549575a7a5a3ee27:0xa02f4feb6e3c660c'>Click Here for Directions</a>",
+        "Description": "Clackamas Fire District #1 Station 4 \r503-742-2600\r6600 SE Lake Rd No shovels are provided.Public inquiry line at 503-655-8224 from 8 a.m. to 9 p.m. (Mon & Tues).",
+        "Link": "<a href='http://www.clackamas.us/emergency/sandbags.html'>www.clackamas.us/emergency/sandbags.html</a>",
+        "marker-color": "#548cba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.595334,
+          45.425517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Free Sandbag Pickup",
+        "Address": "815 Shirley St",
+        "City": "Molalla",
+        "State": "OR",
+        "Directions": "<a href='https://www.google.com/maps/place/45%C2%B009'02.2%22N+122%C2%B033'48.5%22W/@45.150611,-122.5656557,17z/data=!4m2!3m1!1s0x0:0x0'>Click Here for Directions</a>",
+        "Description": "Bohlander Field\r503-829-6855\rAfter Hours: 503-829-6855\rOn Shirley Street across from Buckeroo Rodeo Grounds. Next to Clark Park. No shovels are provided. Public inquiry line at 503-655-8224 from 8 a.m. to 9 p.m. (Mon & Tues).",
+        "Link": "<a href='http://www.clackamas.us/emergency/sandbags.html'>www.clackamas.us/emergency/sandbags.html</a>",
+        "marker-color": "#548cba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.563467,
+          45.150611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Free Sandbag Pickup",
+        "Address": "1100 12th St",
+        "City": "West Linn",
+        "State": "OR",
+        "Directions": "<a href='https://www.google.com/maps/place/Willamette+Park/@45.340166,-122.6547886,17z/data=!4m2!3m1!1s0x549571a75fc76c17:0x15d693a9a48528cd'>Click Here for Directions</a>",
+        "Description": "Willamette Park\r503-656-6081, press 0 \r1100 12th St No shovels are provided. Public inquiry line at 503-655-8224 from 8 a.m. to 9 p.m. (Mon & Tues).",
+        "Link": "<a href='http://www.clackamas.us/emergency/sandbags.html'>www.clackamas.us/emergency/sandbags.html</a>",
+        "marker-color": "#548cba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.651562,
+          45.340122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Free Sandbag Pickup",
+        "Address": "6000 Failing St",
+        "City": "West Linn",
+        "State": "OR",
+        "Directions": "<a href='https://www.google.com/maps/place/6000+Failing+St,+West+Linn,+OR+97068/@45.3704014,-122.6239065,17z/data=!3m1!4b1!4m7!1m4!3m3!1s0x54957153145aa20d:0x6a4ec7b6baa7273c!2s6000+Failing+St,+West+Linn,+OR+97068!3b1!3m1!1s0x54957153145aa20d:0x6a4ec7b6baa7273c'>Click Here for Directions</a>",
+        "Description": "Behind the old Bolton Fire Station \r503-656-6081, press 0 \r6000 Failing St, just off Hwy 43, access is from Failing St. No shovels are provided. Public inquiry line at 503-655-8224 from 8 a.m. to 9 p.m. (Mon & Tues).",
+        "Link": "<a href='http://www.clackamas.us/emergency/sandbags.html'>www.clackamas.us/emergency/sandbags.html</a>",
+        "marker-color": "#548cba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.621729,
+          45.370401
+        ]
+      }
+    }
+  ]
+}
