@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=utf-8 />
+<title>Add your Twitter handle!</title>
+<meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no' />
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/spin.js/1.2.7/spin.min.js"></script>
+<script src="./js/sha256.js"></script>
+<script src="./js/firepano.js"></script>
+
+<script src='https://api.tiles.mapbox.com/mapbox.js/v2.2.3/mapbox.js'></script>
+<link href='https://api.tiles.mapbox.com/mapbox.js/v2.2.3/mapbox.css' rel='stylesheet' />
+<link href='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-locatecontrol/v0.24.0/L.Control.Locate.css' rel='stylesheet' />
+<link href='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-label/v0.2.1/leaflet.label.css' rel='stylesheet' />
+<script src='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-label/v0.2.1/leaflet.label.js'></script>
+<script src='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-locatecontrol/v0.24.0/L.Control.Locate.js'></script>
+<link rel="stylesheet" type="text/css" href="./css/firepano.css">
+
+<style>
+body { margin:0; padding:0; }
+#map { position:absolute; top:0; bottom:0; width:100%; }
+.leaflet-popup-content {background: #E13D21; color: #fff; border-color: #fff; border-radius:12px; margin: 6px;}
+.leaflet-popup-content-wrapper {border-radius: 12px; background: #E13D21; color: #fff;}
+.leaflet-popup-content a {color: #bada55;}
+.leaflet-popup-content h2 {font-size:18px;}
+.leaflet-popup-content a:hover {color: #d8fc62;}
+.leaflet-container a {
+    color: #fff;
+}
+.leaflet-bar a, .leaflet-bar a:hover {
+    color: #333;
+}
+.leaflet-popup-tip {border-top: 10px solid #E13D21;}
+#geolocate {
+    background: #fff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 158px;
+    margin-left: -80px;
+    z-index: 1000;
+    font: 13px/18px;
+    text-align: center;
+    padding: 10px 0;
+    color: #3C4E5A;
+    display: block;
+    border: 1px solid #BBB;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+}
+
+#geolocate:hover {
+    background: #ECF5FA;
+}
+.leaflet-label {
+    background: #E13D21;
+    color: #fff;
+    font-weight: normal;
+    z-index: 9999;
+}
+.leaflet-label a {
+    z-index: 9999;
+}
+
+.leaflet-label img {width: 50px;}
+.leaflet-popup-content img {width: 150px;}
+.label-remove {background-color: #f30;}
+img.center {
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   width: 80px;
+   height: 80px;
+   margin-top: -25px; /* Half the height */
+   margin-left: -10px; /* Half the width */
+}
+.sidebar {
+  width:33.3333%;
+}
+.map {
+  border-left:1px solid #fff;
+  position:absolute;
+  left:33.3333%;
+  width:66.6666%;
+  top:0;
+  bottom:0;
+}
+.pad2 {
+  padding:20px;
+  -webkit-box-sizing:border-box;
+     -moz-box-sizing:border-box;
+          box-sizing:border-box;
+}
+</style>
+</head>
+<body>
+<div id="spin"></div>
+<script type='text/javascript' src='https://cdn.firebase.com/js/client/1.0.6/firebase.js'></script>
+
+<div class='sidebar'><input class="hidden" type="file" accept="image/*" capture="camera" id="file-upload">
+<img class="pano" id="pano" /></div>
+<div id='map' class='map'></div>
+
+<img src="./img/arrow.png" class="center" id="arrow" />
+<script>
+
+L.mapbox.accessToken = 'pk.eyJ1IjoiZ3JhZmEiLCJhIjoiY2loeTI1bmRiMDNscHVza28yb3dwMHcwciJ9.kYSi8jVIM1ZVUNMqxBB4Tg';
+// Connect to the example firebase. This is a free account, and so it
+// will fail if given more than 50 concurrent users. Create an account at
+// http://firebaseio.com/ and use your own database if you want to try out
+// this example.
+var base = new Firebase('https://herenow.firebaseio.com/'),
+map = L.mapbox.map('map', 'grafa.ocfjo5a5')
+    .setView([45.52245801087795, -122.67773866653444],16)
+    .addControl(L.mapbox.geocoderControl('mapbox.places'));
+
+    // geolocate = document.getElementById('geolocate');
+    L.control.locate().addTo(map);
+
+
+var marker = L.marker([0, 0], {
+    draggable: false,
+    opacity: 0
+})
+.bindPopup(
+    '<h2>Add flooded area: </h2>' +
+    '<p>(center on potential blocked drainage)'+
+    '<input type="text" id="message" placeholder="image link" required width=70px  /><br />' +
+    '<button id="add-button">Submit</button>');
+
+
+function hideImage() {
+    var img = document.getElementById('arrow');
+    img.style.visibility = 'hidden';
+}
+
+function showImage() {
+    var img = document.getElementById('arrow');
+    img.style.visibility = 'visible';
+}
+
+// every time the marker is dragged, update the form
+map.on('click', function(e) {
+    hideImage();
+    marker.setLatLng(map.getCenter());
+    marker.openPopup();
+    // When the user clicks Add
+    L.DomEvent.addListener(L.DomUtil.get('add-button'), 'click', function() {
+        // First, clean the potential-HTML they've added to the value.
+        var message = L.DomUtil.get('message').value;
+        // var statuscond = L.DomUtil.get('status').value;
+        // Get the current draggable marker's position and GeoJSON representation
+        var geojson = marker.toGeoJSON();
+
+        geojson.properties.title = message;
+        // geojson.properties.description = description;
+        // geojson.properties.statuscond = statuscond;
+        geojson.properties['marker-color'] = '#E13D21';
+        geojson.properties['marker-symbol'] = 'star';
+
+        // And save it to Firebase
+        base.push(geojson);
+        map.panBy([0, 50]);
+        marker.closePopup();
+    });
+});
+
+// with a cap of 200, listen for new markers being added to the map
+base.limit(200).on('child_added', function(snapshot) {
+    // And for each new marker, add a featureLayer
+    featureLayer = L.mapbox.featureLayer(snapshot.val())
+    .eachLayer(function(l) {
+            // Which positions markers below the marker you drag, so that
+            // they don't overlap in the z-index.
+            l.setZIndexOffset(-1000);
+            // And each marker should have a label with its title.
+            var geojson = l.toGeoJSON();
+            if (geojson && geojson.properties && geojson.properties.title) {
+                l.bindLabel(L.mapbox.sanitize('<a href="' + geojson.properties.title +'" target="_blank">Open Image</a><br><p>'), {
+                    noHide: true
+                });
+            }
+        })
+    .addTo(map);
+});
+
+map.on('popupclose', function(e) {
+    showImage();
+});
+
+// Use this for geolocation
+// =============================
+// Once we've got a position, zoom and center the map
+// on it, and add a single marker.
+map.on('ready', function() {
+    marker.addTo(map);
+});
+
+</script>
+
+</body>
+</html>
