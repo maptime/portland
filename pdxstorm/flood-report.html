@@ -4,16 +4,18 @@
 <meta charset=utf-8 />
 <title>Add your Twitter handle!</title>
 <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no' />
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/spin.js/1.2.7/spin.min.js"></script>
+<script src="./js/sha256.js"></script>
+<script src="./js/firepano.js"></script>
+
 <script src='https://api.tiles.mapbox.com/mapbox.js/v2.2.3/mapbox.js'></script>
 <link href='https://api.tiles.mapbox.com/mapbox.js/v2.2.3/mapbox.css' rel='stylesheet' />
 <link href='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-locatecontrol/v0.24.0/L.Control.Locate.css' rel='stylesheet' />
-<!--[if lt IE 9]>
-<link href='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-locatecontrol/v0.21.0/L.Control.Locate.ie.css' rel='stylesheet' />
-<![endif]-->
 <link href='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-label/v0.2.1/leaflet.label.css' rel='stylesheet' />
-
 <script src='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-label/v0.2.1/leaflet.label.js'></script>
 <script src='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-locatecontrol/v0.24.0/L.Control.Locate.js'></script>
+<link rel="stylesheet" type="text/css" href="./css/firepano.css">
 
 <style>
 body { margin:0; padding:0; }
@@ -57,6 +59,10 @@ body { margin:0; padding:0; }
     font-weight: normal;
     z-index: 9999;
 }
+.leaflet-label a {
+    z-index: 9999;
+}
+
 .leaflet-label img {width: 50px;}
 .leaflet-popup-content img {width: 150px;}
 .label-remove {background-color: #f30;}
@@ -89,9 +95,12 @@ img.center {
 </style>
 </head>
 <body>
-
+<div id="spin"></div>
 <script type='text/javascript' src='https://cdn.firebase.com/js/client/1.0.6/firebase.js'></script>
-<div id='map'></div>
+
+<div class='sidebar'><input class="hidden" type="file" accept="image/*" capture="camera" id="file-upload">
+<img class="pano" id="pano" /></div>
+<div id='map' class='map'></div>
 
 <img src="./img/arrow.png" class="center" id="arrow" />
 <script>
@@ -118,7 +127,6 @@ var marker = L.marker([0, 0], {
     '<h2>Add flooded area: </h2>' +
     '<p>(center on potential blocked drainage)'+
     '<input type="text" id="message" placeholder="image link" required width=70px  /><br />' +
-    // '<input type="text" id="description" placeholder="255 char description" required width=70px  /><br />' +
     '<button id="add-button">Submit</button>');
 
 
