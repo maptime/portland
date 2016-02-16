@@ -7,7 +7,7 @@ rsvp: http://www.meetup.com/MaptimePDX/events/228827801/
 
 ![tableaumap](https://cloud.githubusercontent.com/assets/3945073/13091461/3aa264fc-d4b0-11e5-9ee3-7b600fe29228.jpg)
 
-Join us February 23rd from 6:00 to 8:00 PM at WeWork in the Custom House at 220 NW 8th Ave, Portland, OR.
+Join us February 23rd from 6:00 to 8:00 PM at WeWork Custom House at 220 NW 8th Ave, Portland, OR.
 
 We will be joining forces with the Tableau User Meetup group this month to talk about mapping in Tableau!
 
