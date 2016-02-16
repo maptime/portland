@@ -1,7 +1,7 @@
 ---
 layout: event
 category: event
-title: Mapping with Tableau - February Meetup
+title: Mapping with Tableau | February Meetup
 rsvp: http://www.meetup.com/MaptimePDX/events/228827801/
 ---
 
