@@ -1,59 +1,33 @@
 ---
 layout: event
 category: event
-title: Mapping with Tableau - February Meetup
-rsvp: http://www.meetup.com/MaptimePDX/events/228827801/
+title: OpenStreetMap 101 - January Meetup
+rsvp: http://www.meetup.com/MaptimePDX/events/227504782/
 ---
 
-![tableaumap](https://cloud.githubusercontent.com/assets/3945073/13091461/3aa264fc-d4b0-11e5-9ee3-7b600fe29228.jpg)
+![osmlogo](https://cloud.githubusercontent.com/assets/3945073/12255746/060f17a0-b8ac-11e5-9a29-cb24f213bddf.png)
 
-Join us February 23rd from 6:00 to 8:00 PM at WeWork Custom House at 220 NW 8th Ave, Portland, OR.
+Grant Humphries of Trimet will start your 2016 right with an OpenStreetMap 101 session! Come learn the basics of the "Wikipedia of maps" and get started mapping the places you love.
 
-We will be joining forces with the Tableau User Meetup group this month to talk about mapping in Tableau!
+OpenStreetMap (OSM) is a free, editable map of the whole world that is being built by volunteers largely from scratch and released with an open-content license.
 
-Tableau is business intelligence software that allows anyone to easily connect to data, then visualize and create interactive, sharable dashboards. It's easy enough that any Excel user can learn it, but powerful enough to satisfy even the most complex analytical problems. Securely sharing your findings with others only takes seconds.
+Please bring a computer as this will be a beginner friendly and hands-on Maptime.
 
-[RSVP Here](http://www.meetup.com/MaptimePDX/events/228827801/)
+Pizza and drinks will be provided by Esri and the space has been provided by WeWork.
 
-### Our presenters:
+Agenda:
 
-**Brittany Brannon** of **Slalom Consulting** and **PK Kase** of **Oregon Department of Transportation**. Brit and PK will lead us in a hands-on knowledge-share of their work with Tableau mapping.
+• 6:00-6:15: Social time
 
-### What to bring:
+• 6:15-6:30: Intro/grab pizza
 
-1. Laptop
+• 6:30-7:30:  OSM Tutorial
 
-2. [Free version of Tableau Public](http://www.meetup.com/MaptimePDX/events/228827801/)
+[RSVP Here](http://www.meetup.com/MaptimePDX/events/227504782/)
 
-3. [Free Mapbox Account](https://www.mapbox.com/pricing/)
+Maaaappy New Year!
 
-### Agenda
-
-6:00 – Gather and settle in
-
-6:10 – A few words from our groups and sponsor
-
-6:20 – Mapping with Tableau – hands-on so bring your laptop
-
--  Tableau mapping 101
-
--  Introduction to using Mapbox with Tableau
-
--  Brief overview of using ArcGIS and Tableau
-
--  Tableau map examples
-
-7:20 – Tableau Doctor
-
-Great opportunity to ask any questions about mapping with Tableau!
-
-7:40 – The best part – meet other Tableau users and map makers!
-
-Stick around to continue the conversations started by our presentations.
-
-We'll be heading to Pints Brewing (412 NW 5th Ave, Portland, OR 97209) afterwards for anyone that is interested.
-
-Lots to cover so [RSVP](http://www.meetup.com/MaptimePDX/events/228827801/) and get there early! Note the new location:
+Lots to cover so [RSVP](http://www.meetup.com/MaptimePDX/events/227504782/) and get there early! Note the new location:
 [US Custom House, 220 NW 8th Ave, Portland, OR 97209](https://a.tiles.mapbox.com/v4/manny.o1m3pg2k/page.html?access_token=pk.eyJ1IjoibWFubnkiLCJhIjoiMzBCNHFQUSJ9.VQQ9ZSW7viFT1yLhLiWLSA#17/45.52477/-122.67821).
 
 <iframe width='100%' height='500px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/manny.o1m3pg2k/attribution,zoompan,zoomwheel,geocoder,share.html?access_token=pk.eyJ1IjoibWFubnkiLCJhIjoiMzBCNHFQUSJ9.VQQ9ZSW7viFT1yLhLiWLSA'></iframe>
