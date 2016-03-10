@@ -4,7 +4,7 @@ markdown: kramdown
 paginate: 5
 repo: portland
 github_org: maptime
-future:true
+future: true
 maptime:
   chapter: MaptimePDX
   twitter: MaptimePDX
