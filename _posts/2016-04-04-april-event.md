@@ -13,11 +13,11 @@ Maptime is a literally a time to chat about maps. Whether you're a beginner gett
 
 Special thanks to our sponsors for helping us keep these events open and free for all: 
 
-• WeWork - The Community of Creators: https://www.wework.com/
+- [WeWork](https://www.wework.com/) - The Community of Creators: https://www.wework.com/
 
-• ORURISA's Young Professionals http://orurisayp.org/, ORURISA http://www.orurisa.org/ and GIS in Action Conference:http://www.gisinaction.org/
+- [ORURISA's Young Professionals](http://orurisayp.org/) http://orurisayp.org/, ORURISA http://www.orurisa.org/ and GIS in Action Conference:http://www.gisinaction.org/
 
-• Mapbox - Developer tools for custom web and mobile map applications: https://www.mapbox.com/
+- [Mapbox](https://www.mapbox.com/) - Developer tools for custom web and mobile map applications: https://www.mapbox.com/
 
 [RSVP Here](http://www.meetup.com/MaptimePDX/events/229652447/)
 
