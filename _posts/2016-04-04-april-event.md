@@ -21,6 +21,3 @@ Special thanks to our sponsors for helping us keep these events open and free fo
 
 [RSVP Here](http://www.meetup.com/MaptimePDX/events/229652447/)
 
-### Agenda
-
-<iframe width='100%' height='500px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/manny.o1m3pg2k/attribution,zoompan,geocoder,share.html?access_token=pk.eyJ1IjoibWFubnkiLCJhIjoiMzBCNHFQUSJ9.VQQ9ZSW7viFT1yLhLiWLSA'></iframe>
